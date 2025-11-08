@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Juani</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="email_placeholder">email@domain.com</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="olvido_contrasena">¿Olvidaste la contraseña?</string>
+    <string name="continuar">Continuar</string>
+    <string name="crear_cuenta">Crea una cuenta</string>
+    <string name="acceder_google">Acceder con Google</string>
+    <string name="logo_juani">Logo JUANI</string>
+</resources>
